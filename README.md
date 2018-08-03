@@ -3,11 +3,11 @@
 ---
 
 # 请求API返回code说明
-GET  ->  200
-POST/PUT ->  201
-DELETE  ->   204
-ERROR   ->   500 or other
-Not Found  ->  404
+GET  ->  200  
+POST/PUT ->  201  
+DELETE  ->   204   
+ERROR   ->   500 or other  
+Not Found  ->  404  
 
 # 用户模块
 [用户注册](https://github.com/jovan-liu/chanx/blob/master/user/register.md)  
