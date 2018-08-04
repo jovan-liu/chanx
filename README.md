@@ -15,6 +15,7 @@ Not Found  ->  404
 # 论坛模块
 论坛由帖子（post）及评论（comment）两部分组成
 # post
+[查询精华帖子列表](https://github.com/jovan-liu/chanx/blob/master/post/recommendPosts.md)  
 [根据分类ID获取分页帖子列表](https://github.com/jovan-liu/chanx/blob/master/post/postsByCategoryId.md)  
 [根据ID获取帖子](https://github.com/jovan-liu/chanx/blob/master/post/get.md)  
 [新增帖子](https://github.com/jovan-liu/chanx/blob/master/post/save.md)  
