@@ -6,13 +6,11 @@
 # 参数:
 参数名 | 说明                   | 类型
 ----- |----------------------- | ----
-categoryId | 分类ID   | Long
-categoryName  | 分类名称（论道，读经，心路）        | String
+categoryId | 分类ID（1：论道、 2：读经、 3：心路）   | Integer
 title   | 标题          | String
 content | 内容  | String
 images  | 图片链接 (可选) | String
 createUserId | 创建人ID | Long
-createUserName | 创建人用户名 | String
 # 返回值:
 <pre><code>
 {
