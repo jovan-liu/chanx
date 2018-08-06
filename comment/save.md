@@ -9,9 +9,7 @@
 postId | 帖子ID   | Long
 content  | 内容        | String
 fromUid | 评论人ID | Long
-fromUserName | 评论人用户名 | String
 toUid      | 被评论人用户ID （可选） | Long
-toUserName | 被评论人用户名 （可选） | String
 parentId   | 父评论ID （可选） | Long
 # 返回值:
 <pre><code>
