@@ -12,7 +12,7 @@ content  | 内容        | String
 fromUid | 评论人ID | Long
 toUid      | 被评论人用户ID （可选） | Long
 parentId   | 父评论ID （可选） | Long
-# Tip: 若评论类型为Comment时，parentId为必传，且值必须为已有的评论ID
+# Tip: 若评论类型为Comment时，parentId为必传，且值必须为已有的评论ID；若评论类型为Post时，toUid及toUserName为创建帖子的用户
 # 返回值:
 <pre><code>
 {
