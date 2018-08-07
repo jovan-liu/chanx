@@ -10,6 +10,8 @@ categoryId | 分类ID（1：论道、 2：读经、 3：心路）   | Integer
 title   | 标题          | String
 content | 内容  | String
 images  | 图片链接 (可选) | String
+thumbW  | 图片尺寸宽度 (可选) | Integer
+thumbH  | 图片尺寸高度 (可选) | Integer
 createUserId | 创建人ID | Long
 # 返回值:
 <pre><code>
@@ -23,6 +25,8 @@ createUserId | 创建人ID | Long
         "title": "jovan test post 4",
         "content": "jovan test post content 4",
         "images": null,
+        "thumbW": null,
+        "thumbH": null,
         "commentCount": null,
         "points": null,
         "isVote": false,
