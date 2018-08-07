@@ -20,19 +20,21 @@ userId   | 用户ID（可选） | Long
                 "id": 1, // 评论ID
                 "postId": 1, // 帖子ID
                 "parentId": null, // 父评论ID
+                "commentType": "Post", // 评论类型
                 "content": "jovan test comment 1 for post 1", // 内容
                 "points": 2, // 点赞数
                 "isVote": true, // 当前用户是否点赞
                 "fromUid": 1001, // 评论用户ID
                 "fromUserName": "无名氏", // 评论用户名
-                "toUid": null, // 被评论用户ID
-                "toUserName": null, // 被评论用户名
+                "toUid": 1000, // 被评论用户ID
+                "toUserName": "无名氏", // 被评论用户名
                 "createdOn": "2018-08-03T16:08:20.000+0800" // 创建时间
             },
             {
                 "id": 2,
                 "postId": 1,
                 "parentId": 1,
+                "commentType": "Comment",
                 "content": "jovan test comment 2 for post 1",
                 "points": 0,
                 "isVote": false,
