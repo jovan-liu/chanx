@@ -23,6 +23,8 @@ userId   | 用户ID（可选） | Long
                 "title": "jovan test post 1", // 标题
                 "content": "jovan test post content 1", // 内容
                 "images": null, // 图片字符串，传到图片存储器后返回的值
+                "thumbW": null, // 图片尺寸宽度
+                "thumbH": null, // 图片尺寸高度
                 "commentCount": 2, // 评论总数
                 "points": 1, // 点赞数
                 "isVote": false, // 当前用户是否点赞
