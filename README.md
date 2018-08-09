@@ -11,7 +11,7 @@ Not Found  ->  404
 
 # 用户模块
 [用户注册](https://github.com/jovan-liu/chanx/blob/master/user/register.md)  
-[用户注册](https://github.com/jovan-liu/chanx/blob/master/user/update.md)  
+[更新用户信息](https://github.com/jovan-liu/chanx/blob/master/user/update.md)  
 
 # 论坛模块
 论坛由帖子（post）及评论（comment）两部分组成
