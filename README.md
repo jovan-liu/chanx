@@ -35,9 +35,9 @@ Not Found  ->  404
 [更改点赞状态](https://github.com/jovan-liu/chanx/blob/master/relative/changeVote.md)  
 
 # 商品模块
-[分页获取商品列表](https://github.com/jovan-liu/post_system/blob/master/item/page.md)   
-[根据ID获取商品](https://github.com/jovan-liu/post_system/blob/master/item/get.md)    
+[分页获取商品列表](https://github.com/jovan-liu/chanx/blob/master/item/page.md)   
+[根据ID获取商品](https://github.com/jovan-liu/chanx/blob/master/item/get.md)    
 [新增商品](https://github.com/jovan-liu/chanx/blob/master/item/save.md)    
 [更新商品](https://github.com/jovan-liu/chanx/blob/master/item/update.md)    
-[根据ID删除商品](https://github.com/jovan-liu/post_system/blob/master/item/delete.md)    
+[根据ID删除商品](https://github.com/jovan-liu/chanx/blob/master/item/delete.md)    
 
