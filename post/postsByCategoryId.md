@@ -20,6 +20,21 @@ userId   | 用户ID（可选） | Long
                 "id": 1, // 帖子ID
                 "categoryId": 1, // 分类ID
                 "categoryName": "论道", // 分类名称
+                "tagIds": "1,2", // 标签ID数组
+                "tags": [ // 标签集合
+                    {
+                        "id": 1,
+                        "name": "编辑精选",
+                        "desc": null,
+                        "createdOn": "2018-08-15T11:14:34.000+0800"
+                    },
+                    {
+                        "id": 1,
+                        "name": "编辑精选",
+                        "desc": null,
+                        "createdOn": "2018-08-15T11:14:34.000+0800"
+                    }
+                ],
                 "title": "jovan test post 1", // 标题
                 "content": "jovan test post content 1", // 内容
                 "images": null, // 图片字符串，传到图片存储器后返回的值
