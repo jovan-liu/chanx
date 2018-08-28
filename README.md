@@ -41,3 +41,6 @@ Not Found  ->  404
 [更新商品](https://github.com/jovan-liu/chanx/blob/master/item/update.md)    
 [根据ID删除商品](https://github.com/jovan-liu/chanx/blob/master/item/delete.md)    
 
+# 经文模块
+[分页获取经文列表](https://github.com/jovan-liu/chanx/blob/master/book/page.md)   
+[根据ID获取经文](https://github.com/jovan-liu/chanx/blob/master/book/get.md)    
