@@ -45,6 +45,6 @@ Not Found  ->  404
 [分页获取经文列表](https://github.com/jovan-liu/chanx/blob/master/book/page.md)   
 [根据ID获取经文](https://github.com/jovan-liu/chanx/blob/master/book/get.md)    
 [获取经文阅读精度](https://github.com/jovan-liu/chanx/blob/master/relative/getBookRelative.md)    
-[添加经文阅读精度](https://github.com/jovan-liu/chanx/blob/master/relative/saveBookRelative.md)    
-[修改经文阅读精度](https://github.com/jovan-liu/chanx/blob/master/relative/updateBookRelative.md)    
+[添加经文阅读精度](https://github.com/jovan-liu/chanx/blob/master/relative/saveBookRelatives.md)    
+[修改经文阅读精度](https://github.com/jovan-liu/chanx/blob/master/relative/updateBookRelative.md)(后台使用)    
 [删除经文阅读精度](https://github.com/jovan-liu/chanx/blob/master/relative/deleteBookRelative.md)    
