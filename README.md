@@ -24,6 +24,7 @@ Not Found  ->  404
 [修改帖子]()  （暂未提供该API）  
 [删除帖子](https://github.com/jovan-liu/chanx/blob/master/post/delete.md)   
 [根据目标用户ID获取帖子列表](https://github.com/jovan-liu/chanx/blob/master/post/postsByUser.md)   
+[根据目标用户ID获取收藏帖子列表](https://github.com/jovan-liu/chanx/blob/master/post/collectionPosts.md)   
 
 # comment
 [根据帖子ID分页获取评论列表](https://github.com/jovan-liu/chanx/blob/master/comment/commentsByPostId.md)  
