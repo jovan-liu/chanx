@@ -37,6 +37,9 @@ Not Found  ->  404
 # 点赞模块
 [更改点赞状态](https://github.com/jovan-liu/chanx/blob/master/relative/changeVote.md)  
 
+# 收藏模块
+[更改收藏状态](https://github.com/jovan-liu/chanx/blob/master/relative/changeCollection.md)  
+
 # 商品模块
 [分页获取商品列表](https://github.com/jovan-liu/chanx/blob/master/item/page.md)   
 [根据ID获取商品](https://github.com/jovan-liu/chanx/blob/master/item/get.md)    
