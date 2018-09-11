@@ -43,8 +43,8 @@ userId   | 用户ID（可选） | Long
                 "commentCount": 2, // 评论总数
                 "points": 1, // 点赞数
                 "isVote": false, // 当前用户是否点赞
-                "isFavorite": false, // 当前用户是否收藏
-                "isRecommend": false, // 是否为推荐的帖子
+                "isCollect": null, // 当前用户是否收藏
+                "isRecommend": null, // 是否为推荐的帖子
                 "createUserId": 1000, // 创建用户ID
                 "createUserName": "无名氏", // 创建用户名
                 "createdOn": "2018-08-03T16:06:48.000+0800" // 创建时间
