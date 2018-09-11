@@ -23,6 +23,7 @@ Not Found  ->  404
 [新增帖子](https://github.com/jovan-liu/chanx/blob/master/post/save.md)  
 [修改帖子]()  （暂未提供该API）  
 [删除帖子](https://github.com/jovan-liu/chanx/blob/master/post/delete.md)   
+[根据目标用户ID获取帖子列表](https://github.com/jovan-liu/chanx/blob/master/post/postsByUser.md)   
 
 # comment
 [根据帖子ID分页获取评论列表](https://github.com/jovan-liu/chanx/blob/master/comment/commentsByPostId.md)  
@@ -30,6 +31,7 @@ Not Found  ->  404
 [新增评论](https://github.com/jovan-liu/chanx/blob/master/comment/save.md)  
 [修改评论]()  （暂未提供该API）  
 [删除评论](https://github.com/jovan-liu/chanx/blob/master/comment/delete.md)    
+[根据目标用户ID获取评论评论](https://github.com/jovan-liu/chanx/blob/master/comment/commentsByUser.md)    
 
 # 点赞模块
 [更改点赞状态](https://github.com/jovan-liu/chanx/blob/master/relative/changeVote.md)  
