@@ -21,7 +21,7 @@ userId   | 用户ID (可选) | Long
         "commentCount": 2,
         "points": 1,
         "isVote": false,
-        "isFavorite": false,
+        "isCollect": true, // 当前用户是否收藏此帖子
         "isRecommend": false,
         "createUserId": 1000,
         "createUserName": "无名氏",
