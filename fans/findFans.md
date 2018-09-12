@@ -1,11 +1,10 @@
 # Get user fans 查询用户粉丝列表
 ---
 # 请求类型: GET
-# URL: https://jovanapi.top/user/{fansUserId}/fans/fans
+# URL: https://jovanapi.top/user/{followUserId}/fans/fans
 # 参数:
 参数名 | 说明                   | 类型
 ----- |----------------------- | ----
-fansUserId | 用户ID   | Long
 pageNum   | 第几页         | Integer
 pageSize  | 一页多少         | Integer
 # 返回值:
