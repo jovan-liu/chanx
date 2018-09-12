@@ -5,11 +5,10 @@
 # 参数:
 参数名 | 说明                   | 类型
 ----- |----------------------- | ----
-fansUserId | 用户ID   | Long
 groupId  | 关注分组ID（可选，默认值为-1）        | Long
 pageNum   | 第几页         | Integer
 pageSize  | 一页多少         | Integer
-# Tip: 为了方便扩展关注的分组，预先设置了groupId参数，当前默认值为-1，若要填写也请填-1
+# Tip: {fansUserId}为正在查看的用户ID；为了方便扩展关注的分组，预先设置了groupId参数，当前默认值为-1，若要填写也请填-1
 # 返回值:
 <pre><code>
 {
