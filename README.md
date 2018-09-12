@@ -14,6 +14,12 @@ Not Found  ->  404
 [更新用户信息](https://github.com/jovan-liu/chanx/blob/master/user/update.md)  
 [获取用户信息](https://github.com/jovan-liu/chanx/blob/master/user/get.md)  
 
+# 关注模块
+[根据用户ID查询关注列表](https://github.com/jovan-liu/chanx/blob/master/fans/findFollow.md)  
+[根据用户ID查询粉丝列表](https://github.com/jovan-liu/chanx/blob/master/fans/findFans.md)  
+[添加关注](https://github.com/jovan-liu/chanx/blob/master/fans/addFollow.md)  
+[取消关注](https://github.com/jovan-liu/chanx/blob/master/fans/deleteFollow.md)  
+
 # 论坛模块
 论坛由帖子（post）及评论（comment）两部分组成
 # post
