@@ -7,7 +7,8 @@
 ----- |----------------------- | ----
 id    | 用户ID （可选） | Long
 deviceId | 手机设备ID（可选）  | String
-# Tip: id或deviceId至少要传一个
+loginUserId | 当前用户ID（可选）      | Long
+# Tip: id或deviceId至少要传一个，即为查询的目标用户ID；loginUserId为当前用户ID
 # 返回值:
 <pre><code>
 {
@@ -24,6 +25,7 @@ deviceId | 手机设备ID（可选）  | String
         "modelVersion": "9.6.0",
         "appVersion": "1.0.0",
         "hardwareVersion": null,
+        "isFollow": false, // 是否关注
         "createdOn": "2018-08-03T16:05:43.000+0800",
         "updatedOn": "2018-08-09T21:04:59.000+0800"
     }
