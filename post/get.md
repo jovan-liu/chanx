@@ -23,6 +23,7 @@ userId   | 用户ID (可选) | Long
         "isVote": false,
         "isCollect": true, // 当前用户是否收藏此帖子
         "isRecommend": false,
+        "isFollow": false, // 当前用户是否关注该帖子用户
         "createUserId": 1000,
         "createUserName": "无名氏",
         "createdOn": "2018-08-03T16:06:48.000+0800"
