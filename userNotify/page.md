@@ -13,38 +13,27 @@ pageSize  | 一页多少        | Integer
     "code": 200,
     "msg": "Get resources successfully",
     "data": {
-        "total": 3,
+        "total": 1,
         "list": [
             {
-                "id": 3,
-                "userId": 1000,
-                "notifyId": 4,
-                "isRead": true,
-                "createdOn": "2018-09-17T13:45:19.000+0800",
-                "updatedOn": "2018-09-17T13:45:32.000+0800"
-            },
-            {
-                "id": 2,
-                "userId": 1000,
-                "notifyId": 3,
-                "isRead": true,
-                "createdOn": "2018-09-17T13:44:06.000+0800",
-                "updatedOn": "2018-09-17T13:44:26.000+0800"
-            },
-            {
-                "id": 1,
-                "userId": 1000,
-                "notifyId": 2,
-                "isRead": true,
-                "createdOn": "2018-09-17T13:39:31.000+0800",
-                "updatedOn": "2018-09-17T13:42:45.000+0800"
+                "id": 24, // ID
+                "userId": 1007, // 当前用户ID
+                "notifyId": 24, // 通知ID
+                "isRead": false, // 是否已读
+                "targetType": "Post", // 目标类型
+                "targetId": 10, // 目标ID
+                "sender": 1001, // 通知触发者ID
+                "senderName": "jovan.liu.2.test", // 通知触发者名称
+                "content": "收藏了你在论道的言论", // 内容
+                "createdOn": "2018-09-17T16:39:59.000+0800",
+                "updatedOn": "2018-09-17T16:39:59.000+0800"
             }
         ],
         "pageNum": 1,
         "pageSize": 4,
-        "size": 3,
+        "size": 1,
         "startRow": 1,
-        "endRow": 3,
+        "endRow": 1,
         "pages": 1,
         "prePage": 0,
         "nextPage": 0,
@@ -58,8 +47,8 @@ pageSize  | 一页多少        | Integer
         ],
         "navigateFirstPage": 1,
         "navigateLastPage": 1,
-        "lastPage": 1,
-        "firstPage": 1
+        "firstPage": 1,
+        "lastPage": 1
     }
 }
 </code></pre>
