@@ -20,6 +20,8 @@ pageSize  | 一页多少         | Integer
             {
                 "fansUserId": 1001, // 用户ID
                 "followUserId": 1000, // 关注用户ID
+                "followUserName":"JC_Huang", // 关注用户名称
+                "followUserAvatar":null, // 关注用户头像URL
                 "groupId": -1, // 关注分组ID
                 "createdOn": "2018-09-12T15:01:13.000+0800" // 创建时间
             }
