@@ -13,6 +13,7 @@ Not Found  ->  404
 [用户注册](https://github.com/jovan-liu/chanx/blob/master/user/register.md)  
 [更新用户信息](https://github.com/jovan-liu/chanx/blob/master/user/update.md)  
 [获取用户信息](https://github.com/jovan-liu/chanx/blob/master/user/get.md)  
+[上报用户设备token](https://github.com/jovan-liu/chanx/blob/master/user/pushToken.md)  
 
 # 关注模块
 [根据用户ID查询关注列表](https://github.com/jovan-liu/chanx/blob/master/fans/findFollow.md)  
@@ -60,3 +61,7 @@ Not Found  ->  404
 [添加经文阅读精度](https://github.com/jovan-liu/chanx/blob/master/relative/saveBookRelatives.md)    
 [修改经文阅读精度](https://github.com/jovan-liu/chanx/blob/master/relative/updateBookRelative.md)(后台使用)    
 [删除经文阅读精度](https://github.com/jovan-liu/chanx/blob/master/relative/deleteBookRelative.md)    
+
+# 通知模块
+[根据用户ID分页获取通知列表](https://github.com/jovan-liu/chanx/blob/master/userNotify/page.md)   
+[阅读通知](https://github.com/jovan-liu/chanx/blob/master/userNotify/read.md)    
