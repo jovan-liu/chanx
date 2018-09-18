@@ -32,6 +32,7 @@ Not Found  ->  404
 [删除帖子](https://github.com/jovan-liu/chanx/blob/master/post/delete.md)   
 [根据目标用户ID获取帖子列表](https://github.com/jovan-liu/chanx/blob/master/post/postsByUser.md)   
 [根据目标用户ID获取收藏帖子列表](https://github.com/jovan-liu/chanx/blob/master/post/collectionPosts.md)   
+[根据用户ID获取帖子历史记录列表](https://github.com/jovan-liu/chanx/blob/master/post/postHistoryByPage.md)   
 
 # comment
 [根据帖子ID分页获取评论列表](https://github.com/jovan-liu/chanx/blob/master/comment/commentsByPostId.md)  
