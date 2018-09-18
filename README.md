@@ -66,3 +66,4 @@ Not Found  ->  404
 # 通知模块
 [根据用户ID分页获取通知列表](https://github.com/jovan-liu/chanx/blob/master/userNotify/page.md)   
 [阅读通知](https://github.com/jovan-liu/chanx/blob/master/userNotify/read.md)    
+[根据用户ID查询是否有未读通知](https://github.com/jovan-liu/chanx/blob/master/userNotify/unread.md)    
