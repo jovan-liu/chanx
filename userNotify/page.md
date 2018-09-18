@@ -22,6 +22,8 @@ pageSize  | 一页多少        | Integer
                 "isRead": false, // 是否已读
                 "targetType": "Post", // 目标类型
                 "targetId": 10, // 目标ID
+                "targetCategoryId":1, // 目标分类ID（如果目标类型为Post或Comment,提供此参数进行分类判断）
+                "targetCategoryName":"论道", // 目标分类名称
                 "sender": 1001, // 通知触发者ID
                 "senderName": "jovan.liu.2.test", // 通知触发者名称
                 "content": "收藏了你在论道的言论", // 内容
