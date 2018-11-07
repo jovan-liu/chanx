@@ -25,6 +25,8 @@ loginUserId | 当前用户ID（可选）      | Long
         "modelVersion": "9.6.0",
         "appVersion": "1.0.0",
         "hardwareVersion": null,
+        "followNum": false, // 关注数量
+        "fansNum": false, // 粉丝数量
         "isFollow": false, // 是否关注
         "createdOn": "2018-08-03T16:05:43.000+0800",
         "updatedOn": "2018-08-09T21:04:59.000+0800"
