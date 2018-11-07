@@ -19,14 +19,14 @@ pageSize  | 一页多少         | Integer
                 "fansUserId": 1001, // 粉丝用户ID
                 "followUserId": 1000, // 当前用户ID
                 "groupId": -1,
-                "isFollow": "",
+                "isFollow": true,
                 "createdOn": "2018-09-12T15:01:13.000+0800"
             },
             {
                 "fansUserId": 1002,
                 "followUserId": 1000,
                 "groupId": -1,
-                "isFollow": "",
+                "isFollow": false,
                 "createdOn": "2018-09-12T15:01:20.000+0800"
             }
         ],
