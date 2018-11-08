@@ -26,6 +26,8 @@ userId   | 用户ID (可选) | Long
         "isFollow": false, // 当前用户是否关注该帖子用户
         "createUserId": 1000,
         "createUserName": "无名氏",
+        "createUserAvatar": "avatar.png", // 创建帖子用户头像
+        "createUserSignature": "Signature A", // 创建帖子用户个性签名
         "createdOn": "2018-08-03T16:06:48.000+0800"
     }
 }
