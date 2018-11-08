@@ -26,8 +26,12 @@ userId   | 用户ID（可选） | Long
                 "isVote": true, // 当前用户是否点赞
                 "fromUid": 1001, // 评论用户ID
                 "fromUserName": "无名氏", // 评论用户名
+                "fromUserAvatar": "avatar.png", // 评论用户头像
+                "fromUserSignature": "Signature B", // 评论用户个性签名
                 "toUid": 1000, // 被评论用户ID
                 "toUserName": "无名氏", // 被评论用户名
+                "toUserAvatar": "avatar.png", // 被评论用户头像
+                "toUserSignature": "Signature C", // 被评论用户个性签名
                 "createdOn": "2018-08-03T16:08:20.000+0800" // 创建时间
             },
             {
