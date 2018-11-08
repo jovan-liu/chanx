@@ -28,6 +28,7 @@ userId   | 用户ID（可选） | Long
                 "fromUid": 1016,
                 "fromUserName": "卡菌",
                 "fromUserAvatar": null,
+                "fromUserSignature": null,
                 "toUid": 1006,
                 "toUserName": "魅玩帮",
                 "createdOn": "2018-09-10T15:11:14.000+0800"
