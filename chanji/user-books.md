@@ -36,6 +36,15 @@
                 "normalUrl": "https://s3-us-west-2.amazonaws.com/test-chanx-image/book/c223141e311570e99f05bd90d7ade325.txt",
                 "ancientName": "金刚经_古译版.txt",
                 "ancientUrl": "https://s3-us-west-2.amazonaws.com/test-chanx-image/book/cc2bf4f751787df9e9a62857ac69059c.txt",
+                "bookRelative": { // 经书相关
+                    "userId": 1140,
+                    "bookId": 1,
+                    "chapter": "",
+                    "progressPer": "",
+                    "todayCount": 1,
+                    "totalCount": 1,
+                    "lastReadOn": "2018-12-13T16:17:16.000+0800"
+                },
                 "createdOn": "2018-08-28T17:54:27.000+0800"
             },
             {
@@ -48,6 +57,7 @@
                 "normalUrl": "https://s3-us-west-2.amazonaws.com/test-chanx-image/book/9e0412417772b8c25c435aac9ff34f0a.txt",
                 "ancientName": "大悲咒_古译版.txt",
                 "ancientUrl": "https://s3-us-west-2.amazonaws.com/test-chanx-image/book/31404a4bec9e238836711285beae0344.txt",
+                "bookRelative": "",
                 "createdOn": "2018-09-05T14:42:30.000+0800"
             }
         ],
