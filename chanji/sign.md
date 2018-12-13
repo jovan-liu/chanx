@@ -7,7 +7,7 @@
 ----- |----------------------- | ----
 userId  | 用户ID   | Long
 # 返回值:
-
+<pre><code>
 {
     "code": 201,
     "msg": "The user is first sign in",
@@ -46,3 +46,4 @@ userId  | 用户ID   | Long
         "updatedOn": "2018-12-13T15:32:43.556+0800"
     }
 }
+</code></pre>
