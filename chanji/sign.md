@@ -1,7 +1,7 @@
 # 用户签到
 ---
 # 请求类型: POST
-# URL: https://jovanapi.top/user/read
+# URL: https://jovanapi.top/user/sign
 # 参数:
 参数名 | 说明                   | 类型
 ----- |----------------------- | ----
