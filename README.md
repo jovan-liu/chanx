@@ -9,6 +9,15 @@ DELETE  ->   204
 ERROR   ->   500 or other  
 Not Found  ->  404  
 
+# 禅迹计数更新内容
+[用户注册，新增等级信息](https://github.com/jovan-liu/chanx/blob/master/chanji/register.md)  
+[用户签到](https://github.com/jovan-liu/chanx/blob/master/chanji/sign.md)  
+[获取用户信息](https://github.com/jovan-liu/chanx/blob/master/chanji/get-user.md)  
+[修改用户信息，用于添加经书](https://github.com/jovan-liu/chanx/blob/master/chanji/update-user.md)  
+[获取用户经书列表](https://github.com/jovan-liu/chanx/blob/master/chanji/user-books.md)  
+[阅读经书](https://github.com/jovan-liu/chanx/blob/master/chanji/read.md)  
+[搜索经书](https://github.com/jovan-liu/chanx/blob/master/chanji/search.md)  
+
 # 用户模块
 [用户注册](https://github.com/jovan-liu/chanx/blob/master/user/register.md)  
 [更新用户信息](https://github.com/jovan-liu/chanx/blob/master/user/update.md)  
