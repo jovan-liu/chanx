@@ -8,7 +8,7 @@
 name  | 经书名称   | String
 # Tip: 可模糊查询，例如搜索“金刚”，可以查到《金刚经》
 # 返回值:
-<code><pre>
+<pre><code>
 {
     "code": 200,
     "msg": "Get resources successfully",
