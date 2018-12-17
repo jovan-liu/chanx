@@ -64,6 +64,7 @@
         "level": 2, // 用户等级
         "levelName": "离垢", // 用户等级名称
         "points": 3, // 用户积分
+        "isSign": false, // 用户当日是否签到
         "userSign": { // 用户签到信息
             "id": 1,
             "userId": 1140,
