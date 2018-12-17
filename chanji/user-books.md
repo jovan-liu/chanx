@@ -63,6 +63,7 @@
         ],
         "level": 2, // 用户等级
         "levelName": "离垢", // 用户等级名称
+        "exProgress": "0.00" // 经验进度
         "points": 3, // 用户积分
         "isSign": false, // 用户当日是否签到
         "userSign": { // 用户签到信息
