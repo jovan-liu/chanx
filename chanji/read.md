@@ -7,6 +7,7 @@
 ----- |----------------------- | ----
 userId  | 用户ID   | Long
 bookId  | 经文ID  | Long
+todayCount  | 今日阅读数（可选） | Integer
 isSign  | 用户是否签到 | Boolean
 # 返回值:
 <pre><code>
