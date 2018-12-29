@@ -28,6 +28,7 @@
         "books": "",
         "level": 1,
         "levelName": "欢喜地",
+        "levelDesc": "由发闻行。\r\n正法光明等持光明之所显示。\r\n是故此地名发光地。", // 等级描述
         "exProgress": 0.5,
         "points": 2,
         "isSign": "",
