@@ -19,6 +19,10 @@ Not Found  ->  404
 [阅读经书](https://github.com/jovan-liu/chanx/blob/master/chanji/read.md)  
 [搜索经书](https://github.com/jovan-liu/chanx/blob/master/chanji/search.md)  
 
+# 禅迹计数卡片模块
+[获取用户经书列表](https://github.com/jovan-liu/chanx/blob/master/chanji/user-cards.md)  
+[根据卡片ID获取卡片信息](https://github.com/jovan-liu/chanx/blob/master/chanji/get-card.md)  
+
 # 用户模块
 [用户注册](https://github.com/jovan-liu/chanx/blob/master/user/register.md)  
 [更新用户信息](https://github.com/jovan-liu/chanx/blob/master/user/update.md)  
