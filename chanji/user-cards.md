@@ -39,8 +39,19 @@
                 "id": 1,
                 "name": "缘起1", // 卡片名称
                 "desc": "一切有为法皆为缘起1", // 卡片描述
-                "iconUrl": "https://chanji.oss-cn-shenzhen.aliyuncs.com/test-image/card.png", // 卡片封面
-                "signCount": 2, // 获取该卡片所需签到数
+                "iconUrl": "https://chanji.oss-cn-shenzhen.aliyuncs.com/test-image/card.png", // 卡片封面图
+                "signCount": 2, // 卡片解锁所需天数
+                "status": "unlocked", // 卡片状态，解锁
+                "createdOn": "2018-12-29T10:52:48.000+0800",
+                "updatedOn": "2018-12-29T10:52:48.000+0800"
+            },
+            {
+                "id": 2,
+                "name": "缘起2",
+                "desc": "一切有为法皆为缘起2",
+                "iconUrl": "https://chanji.oss-cn-shenzhen.aliyuncs.com/test-image/card.png",
+                "signCount": 3,
+                "status": "locked", // 卡片状态，加锁
                 "createdOn": "2018-12-29T10:52:48.000+0800",
                 "updatedOn": "2018-12-29T10:52:48.000+0800"
             }
