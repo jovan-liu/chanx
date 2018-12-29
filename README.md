@@ -11,7 +11,7 @@ Not Found  ->  404
 
 # 禅迹计数更新内容
 [用户注册，新增等级信息](https://github.com/jovan-liu/chanx/blob/master/chanji/register.md)  
-~~[用户签到](https://github.com/jovan-liu/chanx/blob/master/chanji/sign.md)~~
+~~[用户签到](https://github.com/jovan-liu/chanx/blob/master/chanji/sign.md)~~  
 [获取用户信息](https://github.com/jovan-liu/chanx/blob/master/chanji/get-user.md)  
 ~~[修改用户信息，用于添加经书](https://github.com/jovan-liu/chanx/blob/master/chanji/update-user.md)~~  
 [修改用户经书](https://github.com/jovan-liu/chanx/blob/master/chanji/update-user-book.md)  
