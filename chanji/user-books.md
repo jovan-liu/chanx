@@ -36,6 +36,10 @@
                 "normalUrl": "https://s3-us-west-2.amazonaws.com/test-chanx-image/book/c223141e311570e99f05bd90d7ade325.txt",
                 "ancientName": "金刚经_古译版.txt",
                 "ancientUrl": "https://s3-us-west-2.amazonaws.com/test-chanx-image/book/cc2bf4f751787df9e9a62857ac69059c.txt",
+                "musicUrl": "https://chanji.oss-cn-shenzhen.aliyuncs.com/test-image/dbz.mp3", // 歌曲URL
+                "musicDuration": 224, // 歌曲时长
+                "lrcUrl": "https://chanji.oss-cn-shenzhen.aliyuncs.com/test-image/dbz.lyr", // 歌词URL
+                "lrcContent": "", // 歌词内容
                 "bookRelative": { // 经书相关
                     "userId": 1140,
                     "bookId": 1,
@@ -57,6 +61,10 @@
                 "normalUrl": "https://s3-us-west-2.amazonaws.com/test-chanx-image/book/9e0412417772b8c25c435aac9ff34f0a.txt",
                 "ancientName": "大悲咒_古译版.txt",
                 "ancientUrl": "https://s3-us-west-2.amazonaws.com/test-chanx-image/book/31404a4bec9e238836711285beae0344.txt",
+                "musicUrl": "",
+                "musicDuration": 0,
+                "lrcUrl": "",
+                "lrcContent": "",
                 "bookRelative": "",
                 "createdOn": "2018-09-05T14:42:30.000+0800"
             }
